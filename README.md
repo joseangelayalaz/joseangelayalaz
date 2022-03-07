@@ -1,8 +1,16 @@
-### Hi there 👋
+### Hi there, I'm J Angel Ayala 👋
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Javascript, ReactJS
-- 👯 I’m looking to collaborate on Front-end Developing
-- 📫 How to reach me: ayalazjangel@gmail.com
-- ⚡ Fun fact: JavaScript has real wierd stuff
+ 🔭 Self tought Software Developer
+ 🌱 I’m currently learning JavaScript, ReactJS and NodeJS
+ 🚀 Platzi Student 
+ ⚡ Focused on Frontend Development 
+
+<br />
+<br />
+
+_____________________________________________________________________________________________________________________________________________
+
+
+### Most used Technologies 
+
 
