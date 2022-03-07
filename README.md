@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 
 
-### Some of the technologies I have worked with-</br>
+### Some of the technologies i've worked with </br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
