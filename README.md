@@ -1,7 +1,7 @@
 ### Hi there, I'm J Angel Ayala 👋
 
  - 🔭 Passionate about tech, science and creativity
- - 🌱 I’m currently learning JavaScript, ReactJS and NodeJS
+ - 🌱 I’m currently learning JavaScript, React.js and Node.js
  - 🚀 Platzi Student 
  - ⚡ Focused on Frontend Development 
 
