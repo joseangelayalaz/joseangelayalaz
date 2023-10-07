@@ -3,7 +3,7 @@
  - 🔭 Passionate about tech, science and creativity
  - 🌱 I’m currently learning Django
  - 🚀 Platzi Student 
- - ⚡ Focused on Frontend Development 
+ - ⚡ Focused on Software Development 
 
 
 
